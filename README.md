@@ -3,7 +3,7 @@
 My name is Jakub. It is
 the first edition of data on GitHub, a test site mainly related to the .md file.
 
-I'm learning from the tutorial posted [here][tutorial.md].
+I'm learning from the tutorial posted [here](https://agea.github.io/tutorial.md).
 
 ***
 ## list example
@@ -58,10 +58,7 @@ create procedure [dbo].[registerEvent](
 ```
 ***
 ## some pictures
-![image1]
-![image2]
+![image1](http://agea.github.io/tutorial.md/img/1.png)
+![image2](http://agea.github.io/tutorial.md/img/2.png)
 ***
-end of file. \
-[tutorial.md]: http://agea.github.io/tutorial.md/ \
-[image1]: img/1.png \
-[image2]: img/2.png 
+end of file.
